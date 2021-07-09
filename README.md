@@ -5,6 +5,6 @@ Feel free to edit the message in the main function.
 
 ## Usage
 ```
-~/AES-CPP-Implementation$ g++ test-aes.cpp
-~/AES-CPP-Implementation$ ./a.out
+~/aes-cpp-implementation$ g++ test-aes.cpp
+~/aes-cpp-implementation$ ./a.out
 ```

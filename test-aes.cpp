@@ -4,7 +4,8 @@
 #include<utility>
 #include<vector>
 #include<string.h>
-#include"aes-without-ni.h"
+#include "aes-without-ni.h"
+#include "aes-ni.h"
 
 using namespace std;
 

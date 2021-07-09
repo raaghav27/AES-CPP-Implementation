@@ -1,10 +1,4 @@
 #include<iostream>
-#include<ncurses.h>
-#include<algorithm>
-#include<utility>
-#include<vector>
-#include<string.h>
-
 using namespace std;
 
 int s_box[256] = {
